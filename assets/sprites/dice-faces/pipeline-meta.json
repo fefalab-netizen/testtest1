@@ -1,0 +1,219 @@
+{
+  "target": "asset",
+  "mode": "sheet",
+  "prompt": "",
+  "role": "",
+  "input": "/workspace/assets/sprites/dice-faces/raw-sheet.jpg",
+  "threshold": 125,
+  "edge_threshold": 185,
+  "duration": 200,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 128,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 5,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "face-1",
+    "face-2",
+    "face-3",
+    "face-4",
+    "face-5",
+    "face-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        111,
+        90,
+        492,
+        491
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        576,
+        0,
+        1152,
+        576
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        90,
+        90,
+        471,
+        491
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1152,
+        0,
+        1728,
+        576
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        70,
+        90,
+        451,
+        491
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        576,
+        576,
+        1152
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        111,
+        38,
+        492,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        576,
+        576,
+        1152,
+        1152
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        90,
+        38,
+        471,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1152,
+        576,
+        1728,
+        1152
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        70,
+        38,
+        451,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        99,
+        104
+      ],
+      "paste_position": [
+        14,
+        12
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}
